@@ -21,3 +21,7 @@ $ git clone https://github.com/DBDoco/Simon-Game.git
 ```
 
 Open index.html and play the game.
+
+## Try it live
+
+<a href="https://incredible-lamington-5d9b23.netlify.app/">Here</a>.
